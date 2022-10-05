@@ -1,2 +1,11 @@
-# G14_TPIF_C2
-ªchu
+# G14-TPI-1CUAT
+## Presupuesto
+
+## Interfaz de usuario
+
+## Consignas
+
+## Base de Datos
+### DER
+
+## Aplicacion en flask

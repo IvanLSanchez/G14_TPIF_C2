@@ -3,7 +3,7 @@
 [presupuesto](archivos/presupuesto.md)
 
 ## Interfaz de usuario
-[Hoja de estilo](../hojaDeEstilo.md)
+[Hoja de estilo](archivos/hojaDeEstilo.md)
 
 ## Consignas
 

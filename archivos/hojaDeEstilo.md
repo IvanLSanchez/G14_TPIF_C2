@@ -4,7 +4,7 @@
 ![](Img/hojaDeEstiloImagenes/paletaColores.PNG)
 
 ## Logo
-![](Img/hojaDeEstiloImagenes/ODSgames.png)
+![](../Img/hojaDeEstiloImagenes/ODSgames.png)
 
 ## Tipografias
 ### Open Sans

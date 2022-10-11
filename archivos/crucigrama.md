@@ -22,6 +22,6 @@
 - En terminos generales influye positivamente este ODS (9)
 
 ## Plantilla
-![plantilla](../Img/consignas/crucigrama.PNG)
+![](../Img/consignas/crucigrama.png)
 
 [inicio](../README.md)

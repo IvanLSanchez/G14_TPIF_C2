@@ -8,7 +8,7 @@
 
 ## Tipografias
 ### Open Sans
-![](Img/hojaDeEstiloImagenes/tipografia.png)
+![](../Img/hojaDeEstiloImagenes/tipografia.png)
 
 ## Imagenes y Elementos
 <img src="../Img/hojaDeEstiloImagenes/ODSLogo1.png" style="height:100px"></img>

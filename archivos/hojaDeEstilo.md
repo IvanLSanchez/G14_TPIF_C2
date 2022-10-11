@@ -1,7 +1,7 @@
 # Hoja de Estilo
 ## Paleta de colores
-![](Img/hojaDeEstiloImagenes/extraccionColores.PNG)
-![](Img/hojaDeEstiloImagenes/paletaColores.PNG)
+![](../Img/hojaDeEstiloImagenes/extraccionColores.png)
+![](../Img/hojaDeEstiloImagenes/paletaColores.png)
 
 ## Logo
 ![](../Img/hojaDeEstiloImagenes/ODSgames.png)

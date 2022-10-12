@@ -9,6 +9,7 @@
 
 ## Consignas
 [Crucigrama](archivos/crucigrama.md)
+
 [Sopa de letras](archivos/sopaDeletras.md)
 ## Base de Datos
 ### DER

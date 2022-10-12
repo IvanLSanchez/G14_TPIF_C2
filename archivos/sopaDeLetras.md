@@ -13,4 +13,4 @@ palabras:
 - sostenibilidad
 - sustentabilidad
 
-[inicio](README.md)
+[inicio](/README.md)

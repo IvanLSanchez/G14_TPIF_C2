@@ -10,4 +10,4 @@
 ## Estadisticas
 ![](Img/documentoDeAlcanceImagenes/wireframe_5.png)
 
-[inicio](README.md)
+[inicio](../README.md)

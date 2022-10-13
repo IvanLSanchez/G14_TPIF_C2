@@ -1,11 +1,11 @@
 # G14-TPI-1CUAT
 ## Presupuesto
-[presupuesto](archivos/presupuesto.md)
+[Presupuesto](archivos/presupuesto.md)
 
 ## Interfaz de usuario
 ### HojaDeEstilo
 [Hoja de estilo](archivos/hojaDeEstilo.md)\
-[wireframe](archivos/wireFrame.md)
+[Wireframe](archivos/wireFrame.md)
 
 ## Consignas
 [Crucigrama](archivos/crucigrama.md)\

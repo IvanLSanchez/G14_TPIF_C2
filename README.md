@@ -4,7 +4,8 @@
 
 ## Interfaz de usuario
 ### HojaDeEstilo
-[Hoja de estilo](archivos/hojaDeEstilo.md)
+[Hoja de estilo](archivos/hojaDeEstilo.md)\
+[wireframe](archivos/wireFrame.md)
 
 ## Consignas
 [Crucigrama](archivos/crucigrama.md)\

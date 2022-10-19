@@ -10,7 +10,8 @@
 ## Consignas
 [Crucigrama](archivos/crucigrama.md)\
 [Sopa de letras](archivos/sopaDeLetras.md)\
-[Verdadero o Falso](archivos/verdaderoFalso.md)
+[Verdadero o Falso](archivos/verdaderoFalso.md) \
+[Ahorcado](archivos/ahorcado.md)
 
 ## Base de Datos
 ### DER

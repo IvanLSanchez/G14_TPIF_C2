@@ -7,7 +7,5 @@
 ![](../Img/documentoDeAlcanceImagenes/wireframe_3.png)
 ## Juegos
 ![](../Img/documentoDeAlcanceImagenes/wireframe_4.png)
-## Estadisticas
-![](../Img/documentoDeAlcanceImagenes/wireframe_5.png)
 
 [inicio](../README.md)

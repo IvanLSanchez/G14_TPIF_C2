@@ -18,4 +18,4 @@
 ![](Img/documentoDeAlcanceImagenes/DER.PNG)
 ## Aplicacion en flask
 [archivos](https://replit.com/join/vipcilbmwb-fede-a-5i)\
-[aplicacion](https://odsgames.pythonanywhere.com/)\
+[aplicacion](https://odsgames.pythonanywhere.com/)
